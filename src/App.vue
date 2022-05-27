@@ -29,7 +29,7 @@ const data = ref<Card>({
 
 <template>
   <div
-    class="w-full flex flex-col md:flex-row items-center justify-center bg-gray-50"
+    class="w-full flex flex-col lg:flex-row items-center justify-center bg-gray-50"
   >
     <div ref="card" class="w-full">
       <div
