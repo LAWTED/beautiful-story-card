@@ -22,7 +22,7 @@ defineProps<{data: Card}>()
                 <path d="m8 13 2.165 2.165a1 1 0 0 0 1.521-.126L16 9" fill="none" />
               </svg>
               <p class="ml-4">
-               <b>As an</b> {{data.AsAn}}
+               <b>As</b> {{data.AsAn}}
               </p>
             </li>
             <li class="flex items-center">
