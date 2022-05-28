@@ -15,7 +15,7 @@ const save = () => {
 const data = ref<Card>({
   id: 18,
   title: "Check ticket number at counter",
-  AsAn: "employee at one of the check-in counters in the airport",
+  AsAn: "an employee at one of the check-in counters in the airport",
   IWantTo:
     "check the passenger's ticket number at the counter and process the passenger's consignment",
   SoThat:
